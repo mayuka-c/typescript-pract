@@ -5,6 +5,7 @@ typesript pratice repo
 
 ### basic command
 ```bash
+# Ensure main.ts is present in the cwd
 tsc main.ts
 tsc main.ts -w
 ```
