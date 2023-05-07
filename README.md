@@ -1,5 +1,17 @@
-# typesript-pract
-typesript pratice repo
+# typescript-pract
+typesript practice repo
+
+## Installation
+```bash
+# nvm installation
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+
+# node installation
+nvm install node
+
+# To install TypeScript
+npm install -g typescript
+```
 
 ## Do basic configurations
 
