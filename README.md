@@ -1,5 +1,5 @@
 # typescript-pract
-typesript practice repo
+typescript practice repo
 
 ## Installation
 ```bash
